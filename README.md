@@ -1,5 +1,5 @@
 # Tutorial
-Part1) Using Visual Studio Code
+**Part1)** Using Visual Studio Code
 
 1) Download Visual Studio Code here: https://code.visualstudio.com/
 2) Once VSC is open, you can create a new profile. (Profiles allow you to organize your workspace and extensions easier.
@@ -16,7 +16,8 @@ Part1) Using Visual Studio Code
 13) Verify changes on GitHub
 
 
-Part2) Glossary
+**Part2)** Glossary
+
 **Branch** - an independent version of the main code; essentially a copy you can work on without making permanent changes to the main code
 
 **Clone** - copy of an existing remote repository to the current local directory
